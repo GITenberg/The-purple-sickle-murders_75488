@@ -1,0 +1,34 @@
+_repo: The-purple-sickle-murders_75488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crofts, Freeman Wills
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '785'
+    url: http://www.gutenberg.org/2009/agents/785
+    wikipedia: https://en.wikipedia.org/wiki/Freeman_Wills_Crofts
+description: ''
+gutenberg_issued: '2025-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75488'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/101642481
+pgterms:marc905: 20250218220348crofts
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Police -- Great Britain -- Fiction'
+- !lcsh 'French, Joseph (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The purple sickle murders
+url: http://www.gutenberg.org/ebooks/75488
